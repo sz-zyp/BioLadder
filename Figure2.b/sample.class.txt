@@ -1,0 +1,7 @@
+	Group
+Sample1	S1
+Sample2	S1
+Sample3	S1
+Sample4	S2
+Sample5	S2
+Sample6	S2
